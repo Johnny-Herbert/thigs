@@ -1,1 +1,2 @@
-// js banner
+// js banner no border
+// legal
