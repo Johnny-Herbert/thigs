@@ -1,1 +1,2 @@
-// js banner
+// js banner animation 
+// thigs
