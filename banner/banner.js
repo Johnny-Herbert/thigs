@@ -1,2 +1,2 @@
-// js banner animation 
-// thigs
+// js banner no border
+// legal
